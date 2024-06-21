@@ -5,8 +5,8 @@
 
 header{
     background-color: darkolivegreen;
-    display: flex;
-    align-items: flex-start;
+    display: center;
+    align-items: center;
     justify-content: space-between;
     padding: 05px;
 }
