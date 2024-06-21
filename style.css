@@ -1,7 +1,25 @@
-body{
-    background-color: wheat;
+*{
+    margin: 0; 
+    padding: 0; 
 }
+
 header{
-    background-color: darkolivegreen;
+    background-color: #c2e0bd;
+    display: flex;
+    align-items: flex-start;
+    justify-content: space-between;
+    padding: 05px;
+}
+
+section{
+    display: flex;
     align-items: center;
+    background-color: #bdecb6;
+    color: dimgray;
+    margin: 05px 0;
+    padding: 10px 20px;
+}
+
+div{
+    padding: 30px;
 }
