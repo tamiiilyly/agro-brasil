@@ -1,9 +1,9 @@
-*{
-    margin: 0; 
-    padding: 20px; 
+* {
+    margin: 0;
+    padding: 20px;
 }
 
-header{
+header {
     background-color: darkolivegreen;
     display: center;
     align-items: center;
@@ -11,7 +11,7 @@ header{
     padding: 05px;
 }
 
-section{
+section {
 
     align-items: center;
     background-color: blanchedalmond;
@@ -20,5 +20,9 @@ section{
     padding: 10px 20px;
 }
 
-div{
-    padding: 10px; }
+div {
+    padding: 10px;
+}
+.img-Soja{
+    width: 20px;
+}
