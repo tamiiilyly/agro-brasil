@@ -5,7 +5,7 @@
 
 header {
     background-color: darkolivegreen;
-    display: center;
+    display: flex;
     align-items: center;
     justify-content: space-between;
     padding: 05px;
