@@ -4,7 +4,7 @@
 }
 
 header{
-    background-color: #c2e0bd;
+    background-color: darkolivegreen;
     display: flex;
     align-items: flex-start;
     justify-content: space-between;
@@ -14,7 +14,7 @@ header{
 section{
     display: flex;
     align-items: center;
-    background-color: #bdecb6;
+    background-color: blanchedalmond;
     color: dimgray;
     margin: 05px 0;
     padding: 10px 20px;
