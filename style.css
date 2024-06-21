@@ -1,4 +1,7 @@
 body{
     background-color: wheat;
 }
-
+header{
+    background-color: darkgreen;
+    align-items: center;
+}
