@@ -103,10 +103,6 @@ a{
 }
 footer{
     background-color: darkolivegreen;
-    display: flex;
-    align-items: center;
-    justify-content: space-between;
-    padding: 05px;
     text-align: center;
 }
 
